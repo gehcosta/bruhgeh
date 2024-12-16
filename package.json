@@ -9,7 +9,7 @@
   "license": "",
   "author": "",
   "scripts": {
-    "build": "webpack --config webpack.config.prod.js"
+    "build": "node_modules/.bin/webpack --config webpack.config.prod.js"
   }
 ,
   "devDependencies": {
