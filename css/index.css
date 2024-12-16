@@ -9,6 +9,7 @@ body {
   background-position: top;
   background-repeat: no-repeat;
   padding: 2rem;
+
 }
 
 .frame {
@@ -21,6 +22,7 @@ body {
   padding: 2rem;
   height: 100%;
   width: 100%;
+  overflow: clip auto;
 }
 
 .names {
@@ -32,6 +34,7 @@ body {
   font-family: "Funnel Sans", sans-serif;
   font-size: 0.93rem;
 }
+
 .subtitle {
   font-size: 1.6rem;
   font-weight: 700;
